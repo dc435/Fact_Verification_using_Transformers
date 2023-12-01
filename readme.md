@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a report and codebase prepared by the author as part of a University natural language processing challenge.
+This is a [Report](https://github.com/dc435/Fact_Verification_using_Transformers/blob/main/Report.pdf) and codebase prepared by the author as part of a University natural language processing challenge.
 
 The challenge involved building an NLP pipeline to verify climate-related claims and extract supporting evidence. The dataset was amended from ClimateFever (https://huggingface.co/datasets/climate_fever).
 
